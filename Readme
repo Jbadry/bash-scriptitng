@@ -2,8 +2,8 @@ In order for this script to run you need a linux based system(basically BASH).
 open your command terminal.
 and type" ./eldenring.sh  ".
 If it does'nt work make the script executable first by typing "  chmod +x eldenring.sh ".
-Now,again follow the 3rd step and run the script.
-Once,the script has ended you can run it again and again to play it again and again.
+Now, follow the 3rd step again and run the script.
+Once,the script has ended you can run it again and again to play it with different choices next time.
 
 
 
